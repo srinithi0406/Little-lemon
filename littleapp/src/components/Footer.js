@@ -18,17 +18,17 @@ function Footer(){
     <div className="footer">
         <h3 style={{marginLeft:"20px"}}>Contact</h3>
     <ul>
-        <li>Address</li>
-        <li>Phone Number</li>
-        <li>Email</li>
+        <li>Address - 7, Express Avenue, Italy</li>
+        <li>Phone Number - 9080900809</li>
+        <li>Email - littlelemon@gmail.com</li>
     </ul>
     </div>
     <div className="footer">
         <h3>Social Media Links</h3>
     <ul>
-        <li>Youtube</li>
-        <li> Facebook</li>
-        <li>Instagram</li>
+        <li>Youtube - The_Little_Lemon</li>
+        <li>Facebook</li>
+        <li>Instagram - @TheLittle_Lemon</li>
         <li>Twitter</li>
         <div style={{justifyContent:"flex-end"}} >
             <p style={{color:"white"}}>© copyright Little Lemon</p>

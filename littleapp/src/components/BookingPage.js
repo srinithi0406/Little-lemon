@@ -1,9 +1,13 @@
+import React, {useState} from "react"
 import BookingForm from "./components/BookingForm"
 
-function BookingPage(){
+function BookingPage(props){
     return(
-    <BookingForm />
+        <div>
+            
+        
+        </div>
     )
 }
 
-export default BookingPage()
+export default BookingPage;

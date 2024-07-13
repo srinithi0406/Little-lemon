@@ -18,6 +18,7 @@ article .card {
   border-style: solid;
   margin-left:5%;
   margin-right: 5%;
+  background-color: rgb(190, 221, 240);
 }
 
 article .card:hover{
@@ -57,3 +58,6 @@ section{
   
 }
 
+.testi{
+  background-color: rgb(224, 219, 219);
+}
